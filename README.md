@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rustyn 👋
 
-<!--
-**rustyncode/rustyncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | Competitive Programmer | Open Source Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Top Repositories
+
+<a href="https://github.com/rustyncode?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rustyncode&repo=repo1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/rustyncode?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rustyncode&repo=repo2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/rustyncode?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rustyncode&repo=repo3&theme=tokyonight" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+![Rustyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustyncode&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustyncode&layout=compact&theme=tokyonight)
